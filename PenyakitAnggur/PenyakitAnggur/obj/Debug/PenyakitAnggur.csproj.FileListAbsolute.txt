@@ -1,0 +1,41 @@
+D:\Progress\CSharp\Penyakit Tanaman Anggur KNN + GLCM\PenyakitAnggur\PenyakitAnggur\bin\Debug\PenyakitAnggur.exe.config
+D:\Progress\CSharp\Penyakit Tanaman Anggur KNN + GLCM\PenyakitAnggur\PenyakitAnggur\bin\Debug\PenyakitAnggur.exe
+D:\Progress\CSharp\Penyakit Tanaman Anggur KNN + GLCM\PenyakitAnggur\PenyakitAnggur\bin\Debug\PenyakitAnggur.pdb
+D:\Progress\CSharp\Penyakit Tanaman Anggur KNN + GLCM\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.csprojAssemblyReference.cache
+D:\Progress\CSharp\Penyakit Tanaman Anggur KNN + GLCM\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.Form1.resources
+D:\Progress\CSharp\Penyakit Tanaman Anggur KNN + GLCM\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.Properties.Resources.resources
+D:\Progress\CSharp\Penyakit Tanaman Anggur KNN + GLCM\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.csproj.GenerateResource.cache
+D:\Progress\CSharp\Penyakit Tanaman Anggur KNN + GLCM\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.csproj.CoreCompileInputs.cache
+D:\Progress\CSharp\Penyakit Tanaman Anggur KNN + GLCM\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.exe
+D:\Progress\CSharp\Penyakit Tanaman Anggur KNN + GLCM\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.pdb
+D:\Progress\CSharp\Penyakit Tanaman Anggur KNN + GLCM\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.Testing.resources
+D:\Progress\CSharp\Penyakit Tanaman Anggur KNN + GLCM\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.Training.resources
+D:\Progress\CSharp\Penyakit Tanaman Anggur KNN + GLCM\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.Prepro.resources
+D:\Data Frans\Kuliah\Skripsi\SKRIPSI FINAL\PenyakitAnggur\PenyakitAnggur\bin\Debug\PenyakitAnggur.exe.config
+D:\Data Frans\Kuliah\Skripsi\SKRIPSI FINAL\PenyakitAnggur\PenyakitAnggur\bin\Debug\PenyakitAnggur.exe
+D:\Data Frans\Kuliah\Skripsi\SKRIPSI FINAL\PenyakitAnggur\PenyakitAnggur\bin\Debug\PenyakitAnggur.pdb
+D:\Data Frans\Kuliah\Skripsi\SKRIPSI FINAL\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.csprojAssemblyReference.cache
+D:\Data Frans\Kuliah\Skripsi\SKRIPSI FINAL\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.Form1.resources
+D:\Data Frans\Kuliah\Skripsi\SKRIPSI FINAL\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.Prepro.resources
+D:\Data Frans\Kuliah\Skripsi\SKRIPSI FINAL\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.Properties.Resources.resources
+D:\Data Frans\Kuliah\Skripsi\SKRIPSI FINAL\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.Testing.resources
+D:\Data Frans\Kuliah\Skripsi\SKRIPSI FINAL\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.Training.resources
+D:\Data Frans\Kuliah\Skripsi\SKRIPSI FINAL\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.csproj.GenerateResource.cache
+D:\Data Frans\Kuliah\Skripsi\SKRIPSI FINAL\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.csproj.CoreCompileInputs.cache
+D:\Data Frans\Kuliah\Skripsi\SKRIPSI FINAL\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.exe
+D:\Data Frans\Kuliah\Skripsi\SKRIPSI FINAL\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.pdb
+D:\Data Frans\Kuliah\Skripsi\SKRIPSI FINAL\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.HalamanUtama.resources
+D:\Data Frans\Kuliah\Skripsi\SKRIPSI FINAL\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.Tentang.resources
+D:\Progress\CSharp\Penyakit Tanaman Anggur KNN + GLCM\Tambahan\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.Properties.Resources.resources
+D:\Progress\CSharp\Penyakit Tanaman Anggur KNN + GLCM\Tambahan\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.Testing.resources
+D:\Progress\CSharp\Penyakit Tanaman Anggur KNN + GLCM\Tambahan\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.Training.resources
+D:\Progress\CSharp\Penyakit Tanaman Anggur KNN + GLCM\Tambahan\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.csproj.GenerateResource.cache
+D:\Progress\CSharp\Penyakit Tanaman Anggur KNN + GLCM\Tambahan\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.csproj.CoreCompileInputs.cache
+D:\Progress\CSharp\Penyakit Tanaman Anggur KNN + GLCM\Tambahan\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.exe
+D:\Progress\CSharp\Penyakit Tanaman Anggur KNN + GLCM\Tambahan\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.pdb
+D:\Progress\CSharp\Penyakit Tanaman Anggur KNN + GLCM\Tambahan\PenyakitAnggur\PenyakitAnggur\bin\Debug\PenyakitAnggur.exe.config
+D:\Progress\CSharp\Penyakit Tanaman Anggur KNN + GLCM\Tambahan\PenyakitAnggur\PenyakitAnggur\bin\Debug\PenyakitAnggur.exe
+D:\Progress\CSharp\Penyakit Tanaman Anggur KNN + GLCM\Tambahan\PenyakitAnggur\PenyakitAnggur\bin\Debug\PenyakitAnggur.pdb
+D:\Progress\CSharp\Penyakit Tanaman Anggur KNN + GLCM\Tambahan\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.FormUtama.resources
+D:\Progress\CSharp\Penyakit Tanaman Anggur KNN + GLCM\Tambahan\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.csproj.AssemblyReference.cache
+D:\Progress\CSharp\Penyakit Tanaman Anggur KNN + GLCM\Tambahan\PenyakitAnggur\PenyakitAnggur\obj\Debug\PenyakitAnggur.csproj.SuggestedBindingRedirects.cache

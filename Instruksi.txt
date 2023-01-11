@@ -1,0 +1,34 @@
+Program yang dibangun berjalan pada platform desktop dengan menggunakan bahasa pemrograman C-Sharp.
+
+Untuk menjalankan program, perintah yang dapat dilakukan adalah sebagai berikut:
+1. Masuk kedalam folder project dengan nama folder "PenyakitAnggur"
+2. Cari program dengan ekstensi .exe untuk menjalankan program pada folder bin > Debug.
+3. Klik kanan file PenyakitAnggur.exe. Pilih Run as Administrator.
+4. Program akan menampilkan menu utama yakni Fitur Pelatihan.
+
+Cara melakukan pelatihan data (training):
+- Klik Button Pilih folder, pilih folder dataset yang akan dilatih.
+- Klik Button Ekstrak Tekstur, tunggu hingga proses selesai.
+- Setelah pelatihan data selesai, sistem akan menampilkan hasil vektor fitur pelatihan pada tabel.
+
+Cara melakukan pengujian data (testing):
+- Pilih button "Input Folder"
+- Masukkan dataset untuk pengujian.
+- Klik button ekstraksi fitur untuk mengekstraksi fitur pada citra yang akan diklasifikasi.
+- Tunggu hingga proses selesai dan sistem akan memberikan notifikasi.
+- Kemudian masukkan nilai K dengan nilai ganjil minimal 1 - 49.
+- Klik button "Mulai Identifikasi, dan tunggu hingga proses selesai.
+- Hasil pengujian akan ditampilkan pada tabel sebelah kiri dan juga citra yang diklasifikasi.
+
+Keterangan:
+Terdapat 2 form yang mewakili fitur untuk melakukan pelatihan (training) data dan pengujian (testing) data.
+Tabel dataset pelatihan pada bagian kanan akan menampilkan data pelatihan. 
+Jika belum ada data yang ditraining, maka perlu menambahkan data berupa citra yang terdapat pada folder "Data Latih". 
+Nama file yang dapat digunakan merupakan citra dengan ukuran persegi dengan nama file yang diawali kode BM, BR, HL, LB.
+
+
+Note:
+BM = Black Measles
+BR = Black Rot
+LB = Leaf Blight
+HL = Healthy
